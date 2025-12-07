@@ -54,8 +54,7 @@ This project allows hospitals to efficiently manage Doctors, Patients, and Appoi
 
 1 . Clone this repository to your local machine
 
-       get clone https://github.com/yashjadhav8903-git/HospitalManagementSystem.git
-    
+        https://github.com/yashjadhav8903-git/HospitalManagementSystem.git    
 2 . Configure your PostgreSQL database settings in the HotelReservationSystem.java file
 
     private static final String url = "jdbc:postgresql://localhost:5432/hospitaldb";
