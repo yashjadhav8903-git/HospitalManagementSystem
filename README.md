@@ -105,6 +105,7 @@ Foreign-key constraints:
     private static final String password = "your_password";
 
 3 . Run the Application
+
     * Use IDE :-
     javac Main.java
     java Main
@@ -113,13 +114,16 @@ Foreign-key constraints:
 
 
 🧑‍💻Future Enhancements
+
         1 . Add login/authentication
         2 . Convert to web app using Spring Boot
 
 -> Contributing 🤝
+
     Contributions are welcome! Feel free to open issues and pull requests for bug fixes, enhancements, or new features.
 
 ❤️ Support
+
     If this project helped you, ⭐ Star the repo!
 
 
