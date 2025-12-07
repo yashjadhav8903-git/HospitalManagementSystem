@@ -1,4 +1,4 @@
-package README;
+package README
 
 🏥 Hospital Management System
 
