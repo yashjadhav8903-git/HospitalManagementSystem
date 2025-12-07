@@ -95,9 +95,11 @@ Foreign-key constraints:
 ** How to Run the Project **
 
 1 . Clone this repository to your local machine
+
     git clone https://github.com/your-username/HospitalManagementSystem.git
 
 2 . Configure your MySQL database settings in the HotelReservationSystem.java file
+
     private static final String url = "jdbc:postgresql://localhost:5432/hospitaldb";
     private static final String username = "your_username";
     private static final String password = "your_password";
